@@ -1,0 +1,451 @@
+ActivityID,TicketID,Author,NoteType,Notes,Timestamp
+ACT-000001,INC-2025-00001,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 24h SLA. Assigned to Chandra Kirana.,2025-08-01 10:24:05
+ACT-000002,INC-2025-00001,Chandra Kirana,Resolution Summary,Issue resolved within 18.0 hours. Requester confirmed functionality.,2025-08-02 04:26:02
+ACT-000003,INC-2025-00002,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 8h SLA. Assigned to Fitria Ramadhani.,2025-08-01 14:00:43
+ACT-000004,INC-2025-00002,Fitria Ramadhani,Resolution Summary,Issue resolved within 3.4 hours. Requester confirmed functionality.,2025-08-01 17:26:06
+ACT-000005,INC-2025-00003,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 24h SLA. Assigned to Bayu Wicaksono.,2025-08-01 20:18:58
+ACT-000006,INC-2025-00003,Bayu Wicaksono,Resolution Summary,Issue resolved within 9.8 hours. Requester confirmed functionality.,2025-08-02 06:09:11
+ACT-000007,INC-2025-00004,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 24h SLA. Assigned to Hafiz Syahrin.,2025-08-02 00:31:28
+ACT-000008,INC-2025-00004,Hafiz Syahrin,Resolution Summary,Issue resolved within 11.7 hours. Requester confirmed functionality.,2025-08-02 12:13:09
+ACT-000009,INC-2025-00005,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 8h SLA. Assigned to Chandra Kirana.,2025-08-02 06:20:58
+ACT-000010,INC-2025-00005,Chandra Kirana,Resolution Summary,Issue resolved within 4.9 hours. Requester confirmed functionality.,2025-08-02 11:12:29
+ACT-000011,INC-2025-00006,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 24h SLA. Assigned to Fitria Ramadhani.,2025-08-02 10:46:44
+ACT-000012,INC-2025-00006,Fitria Ramadhani,Resolution Summary,Issue resolved within 13.0 hours. Requester confirmed functionality.,2025-08-02 23:44:40
+ACT-000013,INC-2025-00007,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 24h SLA. Assigned to Bayu Wicaksono.,2025-08-02 17:16:13
+ACT-000014,INC-2025-00007,Bayu Wicaksono,Resolution Summary,Issue resolved within 11.9 hours. Requester confirmed functionality.,2025-08-03 05:10:14
+ACT-000015,INC-2025-00008,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 24h SLA. Assigned to Hafiz Syahrin.,2025-08-02 20:59:34
+ACT-000016,INC-2025-00008,Hafiz Syahrin,Resolution Summary,Issue resolved within 16.6 hours. Requester confirmed functionality.,2025-08-03 13:35:30
+ACT-000017,INC-2025-00009,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 2h SLA. Assigned to Chandra Kirana.,2025-08-03 03:59:51
+ACT-000018,INC-2025-00009,Chandra Kirana,Resolution Summary,Issue resolved within 1.7 hours. Requester confirmed functionality.,2025-08-03 05:43:29
+ACT-000019,INC-2025-00010,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 8h SLA. Assigned to Fitria Ramadhani.,2025-08-03 07:29:43
+ACT-000020,INC-2025-00010,Fitria Ramadhani,Resolution Summary,Issue resolved within 5.8 hours. Requester confirmed functionality.,2025-08-03 13:19:22
+ACT-000021,INC-2025-00011,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 8h SLA. Assigned to Bayu Wicaksono.,2025-08-03 13:29:25
+ACT-000022,INC-2025-00011,Bayu Wicaksono,Resolution Summary,Issue resolved within 3.3 hours. Requester confirmed functionality.,2025-08-03 16:49:20
+ACT-000023,INC-2025-00012,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 8h SLA. Assigned to Hafiz Syahrin.,2025-08-03 19:01:30
+ACT-000024,INC-2025-00012,Hafiz Syahrin,Resolution Summary,Issue resolved within 4.4 hours. Requester confirmed functionality.,2025-08-03 23:25:19
+ACT-000025,INC-2025-00013,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 24h SLA. Assigned to Chandra Kirana.,2025-08-03 23:16:10
+ACT-000026,INC-2025-00013,Chandra Kirana,Resolution Summary,Issue resolved within 20.8 hours. Requester confirmed functionality.,2025-08-04 20:02:21
+ACT-000027,INC-2025-00014,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 72h SLA. Assigned to Fitria Ramadhani.,2025-08-04 05:53:22
+ACT-000028,INC-2025-00014,Fitria Ramadhani,Resolution Summary,Issue resolved within 107.0 hours. Requester confirmed functionality.,2025-08-08 16:55:54
+ACT-000029,INC-2025-00015,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 2h SLA. Assigned to Bayu Wicaksono.,2025-08-04 09:41:31
+ACT-000030,INC-2025-00015,Bayu Wicaksono,Resolution Summary,Issue resolved within 0.8 hours. Requester confirmed functionality.,2025-08-04 10:32:07
+ACT-000031,INC-2025-00016,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 24h SLA. Assigned to Hafiz Syahrin.,2025-08-04 15:02:33
+ACT-000032,INC-2025-00016,Hafiz Syahrin,Resolution Summary,Issue resolved within 19.1 hours. Requester confirmed functionality.,2025-08-05 10:11:23
+ACT-000033,INC-2025-00017,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 8h SLA. Assigned to Chandra Kirana.,2025-08-04 20:47:07
+ACT-000034,INC-2025-00017,Chandra Kirana,Resolution Summary,Issue resolved within 3.7 hours. Requester confirmed functionality.,2025-08-05 00:31:35
+ACT-000035,INC-2025-00018,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 2h SLA. Assigned to Fitria Ramadhani.,2025-08-05 02:52:25
+ACT-000036,INC-2025-00018,Fitria Ramadhani,Resolution Summary,Issue resolved within 1.5 hours. Requester confirmed functionality.,2025-08-05 04:24:54
+ACT-000037,INC-2025-00019,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 2h SLA. Assigned to Bayu Wicaksono.,2025-08-05 07:43:51
+ACT-000038,INC-2025-00019,Bayu Wicaksono,Resolution Summary,Issue resolved within 1.5 hours. Requester confirmed functionality.,2025-08-05 09:12:34
+ACT-000039,INC-2025-00020,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 24h SLA. Assigned to Hafiz Syahrin.,2025-08-05 11:26:53
+ACT-000040,INC-2025-00020,Hafiz Syahrin,Resolution Summary,Issue resolved within 13.7 hours. Requester confirmed functionality.,2025-08-06 01:10:39
+ACT-000041,INC-2025-00021,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 72h SLA. Assigned to Chandra Kirana.,2025-08-05 17:44:47
+ACT-000042,INC-2025-00021,Chandra Kirana,Resolution Summary,Issue resolved within 40.2 hours. Requester confirmed functionality.,2025-08-07 09:58:56
+ACT-000043,INC-2025-00022,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 8h SLA. Assigned to Fitria Ramadhani.,2025-08-05 22:21:01
+ACT-000044,INC-2025-00022,Fitria Ramadhani,Resolution Summary,Issue resolved within 6.0 hours. Requester confirmed functionality.,2025-08-06 04:21:07
+ACT-000045,INC-2025-00023,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 72h SLA. Assigned to Bayu Wicaksono.,2025-08-06 03:50:39
+ACT-000046,INC-2025-00023,Bayu Wicaksono,Resolution Summary,Issue resolved within 32.9 hours. Requester confirmed functionality.,2025-08-07 12:46:39
+ACT-000047,INC-2025-00024,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 24h SLA. Assigned to Hafiz Syahrin.,2025-08-06 09:13:21
+ACT-000048,INC-2025-00024,Hafiz Syahrin,Resolution Summary,Issue resolved within 18.5 hours. Requester confirmed functionality.,2025-08-07 03:42:14
+ACT-000049,INC-2025-00025,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 24h SLA. Assigned to Chandra Kirana.,2025-08-06 14:09:18
+ACT-000050,INC-2025-00025,Chandra Kirana,Resolution Summary,Issue resolved within 9.9 hours. Requester confirmed functionality.,2025-08-07 00:02:52
+ACT-000051,INC-2025-00026,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 2h SLA. Assigned to Fitria Ramadhani.,2025-08-06 19:46:22
+ACT-000052,INC-2025-00026,Fitria Ramadhani,Resolution Summary,Issue resolved within 1.1 hours. Requester confirmed functionality.,2025-08-06 20:52:28
+ACT-000053,INC-2025-00027,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 72h SLA. Assigned to Bayu Wicaksono.,2025-08-07 00:11:54
+ACT-000054,INC-2025-00027,Bayu Wicaksono,Resolution Summary,Issue resolved within 96.5 hours. Requester confirmed functionality.,2025-08-11 00:43:15
+ACT-000055,INC-2025-00028,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 8h SLA. Assigned to Hafiz Syahrin.,2025-08-07 05:03:14
+ACT-000056,INC-2025-00028,Hafiz Syahrin,Resolution Summary,Issue resolved within 4.3 hours. Requester confirmed functionality.,2025-08-07 09:21:59
+ACT-000057,INC-2025-00029,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 72h SLA. Assigned to Chandra Kirana.,2025-08-07 11:42:58
+ACT-000058,INC-2025-00029,Chandra Kirana,Resolution Summary,Issue resolved within 50.7 hours. Requester confirmed functionality.,2025-08-09 14:24:24
+ACT-000059,INC-2025-00030,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 24h SLA. Assigned to Fitria Ramadhani.,2025-08-07 15:40:23
+ACT-000060,INC-2025-00030,Fitria Ramadhani,Resolution Summary,Issue resolved within 19.9 hours. Requester confirmed functionality.,2025-08-08 11:33:19
+ACT-000061,INC-2025-00031,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 24h SLA. Assigned to Bayu Wicaksono.,2025-08-07 22:17:31
+ACT-000062,INC-2025-00031,Bayu Wicaksono,Resolution Summary,Issue resolved within 13.3 hours. Requester confirmed functionality.,2025-08-08 11:33:20
+ACT-000063,INC-2025-00032,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 8h SLA. Assigned to Hafiz Syahrin.,2025-08-08 02:33:15
+ACT-000064,INC-2025-00032,Hafiz Syahrin,Resolution Summary,Issue resolved within 6.3 hours. Requester confirmed functionality.,2025-08-08 08:53:43
+ACT-000065,INC-2025-00033,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 2h SLA. Assigned to Chandra Kirana.,2025-08-08 07:55:17
+ACT-000066,INC-2025-00033,Chandra Kirana,Resolution Summary,Issue resolved within 1.2 hours. Requester confirmed functionality.,2025-08-08 09:07:19
+ACT-000067,INC-2025-00034,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 8h SLA. Assigned to Fitria Ramadhani.,2025-08-08 12:46:30
+ACT-000068,INC-2025-00034,Fitria Ramadhani,Resolution Summary,Issue resolved within 6.8 hours. Requester confirmed functionality.,2025-08-08 19:35:45
+ACT-000069,INC-2025-00035,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 24h SLA. Assigned to Bayu Wicaksono.,2025-08-08 18:42:21
+ACT-000070,INC-2025-00035,Bayu Wicaksono,Resolution Summary,Issue resolved within 13.8 hours. Requester confirmed functionality.,2025-08-09 08:29:42
+ACT-000071,INC-2025-00036,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 72h SLA. Assigned to Hafiz Syahrin.,2025-08-08 23:00:12
+ACT-000072,INC-2025-00036,Hafiz Syahrin,Resolution Summary,Issue resolved within 46.0 hours. Requester confirmed functionality.,2025-08-10 20:59:18
+ACT-000073,INC-2025-00037,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 8h SLA. Assigned to Chandra Kirana.,2025-08-09 03:46:25
+ACT-000074,INC-2025-00037,Chandra Kirana,Resolution Summary,Issue resolved within 5.5 hours. Requester confirmed functionality.,2025-08-09 09:18:52
+ACT-000075,INC-2025-00038,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 2h SLA. Assigned to Fitria Ramadhani.,2025-08-09 09:27:26
+ACT-000076,INC-2025-00038,Fitria Ramadhani,Resolution Summary,Issue resolved within 1.7 hours. Requester confirmed functionality.,2025-08-09 11:07:45
+ACT-000077,INC-2025-00039,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 8h SLA. Assigned to Bayu Wicaksono.,2025-08-09 15:04:44
+ACT-000078,INC-2025-00039,Bayu Wicaksono,Resolution Summary,Issue resolved within 7.0 hours. Requester confirmed functionality.,2025-08-09 22:03:49
+ACT-000079,INC-2025-00040,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 24h SLA. Assigned to Hafiz Syahrin.,2025-08-09 20:49:23
+ACT-000080,INC-2025-00040,Hafiz Syahrin,Resolution Summary,Issue resolved within 29.7 hours. Requester confirmed functionality.,2025-08-11 02:31:45
+ACT-000081,INC-2025-00041,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 24h SLA. Assigned to Chandra Kirana.,2025-08-10 01:45:52
+ACT-000082,INC-2025-00041,Chandra Kirana,Resolution Summary,Issue resolved within 16.9 hours. Requester confirmed functionality.,2025-08-10 18:39:46
+ACT-000083,INC-2025-00042,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 2h SLA. Assigned to Fitria Ramadhani.,2025-08-10 07:22:14
+ACT-000084,INC-2025-00042,Fitria Ramadhani,Resolution Summary,Issue resolved within 1.1 hours. Requester confirmed functionality.,2025-08-10 08:28:42
+ACT-000085,INC-2025-00043,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 2h SLA. Assigned to Bayu Wicaksono.,2025-08-10 12:04:54
+ACT-000086,INC-2025-00043,Bayu Wicaksono,Resolution Summary,Issue resolved within 1.5 hours. Requester confirmed functionality.,2025-08-10 13:31:56
+ACT-000087,INC-2025-00044,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 24h SLA. Assigned to Hafiz Syahrin.,2025-08-10 16:33:10
+ACT-000088,INC-2025-00044,Hafiz Syahrin,Resolution Summary,Issue resolved within 17.0 hours. Requester confirmed functionality.,2025-08-11 09:35:07
+ACT-000089,INC-2025-00045,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 24h SLA. Assigned to Chandra Kirana.,2025-08-10 22:04:24
+ACT-000090,INC-2025-00045,Chandra Kirana,Resolution Summary,Issue resolved within 20.4 hours. Requester confirmed functionality.,2025-08-11 18:27:52
+ACT-000091,INC-2025-00046,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 8h SLA. Assigned to Fitria Ramadhani.,2025-08-11 02:43:37
+ACT-000092,INC-2025-00046,Fitria Ramadhani,Resolution Summary,Issue resolved within 6.8 hours. Requester confirmed functionality.,2025-08-11 09:28:39
+ACT-000093,INC-2025-00047,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 8h SLA. Assigned to Bayu Wicaksono.,2025-08-11 09:01:11
+ACT-000094,INC-2025-00047,Bayu Wicaksono,Resolution Summary,Issue resolved within 6.3 hours. Requester confirmed functionality.,2025-08-11 15:21:29
+ACT-000095,INC-2025-00048,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 24h SLA. Assigned to Hafiz Syahrin.,2025-08-11 13:23:01
+ACT-000096,INC-2025-00048,Hafiz Syahrin,Resolution Summary,Issue resolved within 10.7 hours. Requester confirmed functionality.,2025-08-12 00:03:22
+ACT-000097,INC-2025-00049,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 72h SLA. Assigned to Chandra Kirana.,2025-08-11 19:21:58
+ACT-000098,INC-2025-00049,Chandra Kirana,Resolution Summary,Issue resolved within 40.5 hours. Requester confirmed functionality.,2025-08-13 11:52:59
+ACT-000099,INC-2025-00050,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 24h SLA. Assigned to Fitria Ramadhani.,2025-08-12 01:05:39
+ACT-000100,INC-2025-00050,Fitria Ramadhani,Resolution Summary,Issue resolved within 19.8 hours. Requester confirmed functionality.,2025-08-12 20:54:48
+ACT-000101,INC-2025-00051,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 24h SLA. Assigned to Bayu Wicaksono.,2025-08-12 04:40:05
+ACT-000102,INC-2025-00051,Bayu Wicaksono,Resolution Summary,Issue resolved within 11.5 hours. Requester confirmed functionality.,2025-08-12 16:07:48
+ACT-000103,INC-2025-00052,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 24h SLA. Assigned to Hafiz Syahrin.,2025-08-12 09:43:06
+ACT-000104,INC-2025-00052,Hafiz Syahrin,Resolution Summary,Issue resolved within 10.8 hours. Requester confirmed functionality.,2025-08-12 20:29:14
+ACT-000105,INC-2025-00053,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 2h SLA. Assigned to Chandra Kirana.,2025-08-12 15:13:17
+ACT-000106,INC-2025-00053,Chandra Kirana,Resolution Summary,Issue resolved within 3.6 hours. Requester confirmed functionality.,2025-08-12 18:46:35
+ACT-000107,INC-2025-00054,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 24h SLA. Assigned to Fitria Ramadhani.,2025-08-12 20:32:54
+ACT-000108,INC-2025-00054,Fitria Ramadhani,Resolution Summary,Issue resolved within 17.8 hours. Requester confirmed functionality.,2025-08-13 14:21:10
+ACT-000109,INC-2025-00055,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 8h SLA. Assigned to Bayu Wicaksono.,2025-08-13 02:47:34
+ACT-000110,INC-2025-00055,Bayu Wicaksono,Resolution Summary,Issue resolved within 5.7 hours. Requester confirmed functionality.,2025-08-13 08:29:15
+ACT-000111,INC-2025-00056,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 24h SLA. Assigned to Hafiz Syahrin.,2025-08-13 07:38:11
+ACT-000112,INC-2025-00056,Hafiz Syahrin,Resolution Summary,Issue resolved within 10.7 hours. Requester confirmed functionality.,2025-08-13 18:18:56
+ACT-000113,INC-2025-00057,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 8h SLA. Assigned to Chandra Kirana.,2025-08-13 12:11:16
+ACT-000114,INC-2025-00057,Chandra Kirana,Resolution Summary,Issue resolved within 6.9 hours. Requester confirmed functionality.,2025-08-13 19:07:27
+ACT-000115,INC-2025-00058,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 72h SLA. Assigned to Fitria Ramadhani.,2025-08-13 18:09:44
+ACT-000116,INC-2025-00058,Fitria Ramadhani,Resolution Summary,Issue resolved within 56.3 hours. Requester confirmed functionality.,2025-08-16 02:25:51
+ACT-000117,INC-2025-00059,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 24h SLA. Assigned to Bayu Wicaksono.,2025-08-13 23:05:06
+ACT-000118,INC-2025-00059,Bayu Wicaksono,Resolution Summary,Issue resolved within 11.8 hours. Requester confirmed functionality.,2025-08-14 10:56:03
+ACT-000119,INC-2025-00060,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 8h SLA. Assigned to Hafiz Syahrin.,2025-08-14 03:20:55
+ACT-000120,INC-2025-00060,Hafiz Syahrin,Resolution Summary,Issue resolved within 5.7 hours. Requester confirmed functionality.,2025-08-14 09:01:38
+ACT-000121,INC-2025-00061,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 72h SLA. Assigned to Chandra Kirana.,2025-08-14 10:24:28
+ACT-000122,INC-2025-00061,Chandra Kirana,Resolution Summary,Issue resolved within 60.4 hours. Requester confirmed functionality.,2025-08-16 22:49:32
+ACT-000123,INC-2025-00062,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 2h SLA. Assigned to Fitria Ramadhani.,2025-08-14 15:33:23
+ACT-000124,INC-2025-00062,Fitria Ramadhani,Resolution Summary,Issue resolved within 1.2 hours. Requester confirmed functionality.,2025-08-14 16:46:03
+ACT-000125,INC-2025-00063,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 72h SLA. Assigned to Bayu Wicaksono.,2025-08-14 20:36:21
+ACT-000126,INC-2025-00063,Bayu Wicaksono,Resolution Summary,Issue resolved within 39.0 hours. Requester confirmed functionality.,2025-08-16 11:34:55
+ACT-000127,INC-2025-00064,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 72h SLA. Assigned to Hafiz Syahrin.,2025-08-15 00:44:01
+ACT-000128,INC-2025-00064,Hafiz Syahrin,Resolution Summary,Issue resolved within 34.7 hours. Requester confirmed functionality.,2025-08-16 11:23:29
+ACT-000129,INC-2025-00065,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 72h SLA. Assigned to Chandra Kirana.,2025-08-15 06:41:31
+ACT-000130,INC-2025-00065,Chandra Kirana,Resolution Summary,Issue resolved within 48.5 hours. Requester confirmed functionality.,2025-08-17 07:11:36
+ACT-000131,INC-2025-00066,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 24h SLA. Assigned to Fitria Ramadhani.,2025-08-15 12:28:48
+ACT-000132,INC-2025-00066,Fitria Ramadhani,Resolution Summary,Issue resolved within 28.0 hours. Requester confirmed functionality.,2025-08-16 16:27:34
+ACT-000133,INC-2025-00067,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 72h SLA. Assigned to Bayu Wicaksono.,2025-08-15 17:10:53
+ACT-000134,INC-2025-00067,Bayu Wicaksono,Resolution Summary,Issue resolved within 52.9 hours. Requester confirmed functionality.,2025-08-17 22:04:13
+ACT-000135,INC-2025-00068,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 24h SLA. Assigned to Hafiz Syahrin.,2025-08-15 21:29:13
+ACT-000136,INC-2025-00068,Hafiz Syahrin,Resolution Summary,Issue resolved within 18.9 hours. Requester confirmed functionality.,2025-08-16 16:24:39
+ACT-000137,INC-2025-00069,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 72h SLA. Assigned to Chandra Kirana.,2025-08-16 03:55:35
+ACT-000138,INC-2025-00069,Chandra Kirana,Resolution Summary,Issue resolved within 46.5 hours. Requester confirmed functionality.,2025-08-18 02:23:54
+ACT-000139,INC-2025-00070,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 24h SLA. Assigned to Fitria Ramadhani.,2025-08-16 08:35:59
+ACT-000140,INC-2025-00070,Fitria Ramadhani,Resolution Summary,Issue resolved within 17.7 hours. Requester confirmed functionality.,2025-08-17 02:17:11
+ACT-000141,INC-2025-00071,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 72h SLA. Assigned to Bayu Wicaksono.,2025-08-16 13:10:33
+ACT-000142,INC-2025-00071,Bayu Wicaksono,Resolution Summary,Issue resolved within 41.8 hours. Requester confirmed functionality.,2025-08-18 06:57:22
+ACT-000143,INC-2025-00072,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 24h SLA. Assigned to Hafiz Syahrin.,2025-08-16 17:46:18
+ACT-000144,INC-2025-00072,Hafiz Syahrin,Resolution Summary,Issue resolved within 15.0 hours. Requester confirmed functionality.,2025-08-17 08:44:08
+ACT-000145,INC-2025-00073,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 8h SLA. Assigned to Chandra Kirana.,2025-08-17 00:04:53
+ACT-000146,INC-2025-00073,Chandra Kirana,Resolution Summary,Issue resolved within 3.3 hours. Requester confirmed functionality.,2025-08-17 03:23:55
+ACT-000147,INC-2025-00074,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 24h SLA. Assigned to Fitria Ramadhani.,2025-08-17 04:49:13
+ACT-000148,INC-2025-00074,Fitria Ramadhani,Resolution Summary,Issue resolved within 11.1 hours. Requester confirmed functionality.,2025-08-17 15:53:02
+ACT-000149,INC-2025-00075,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 24h SLA. Assigned to Bayu Wicaksono.,2025-08-17 09:43:53
+ACT-000150,INC-2025-00075,Bayu Wicaksono,Resolution Summary,Issue resolved within 16.8 hours. Requester confirmed functionality.,2025-08-18 02:30:26
+ACT-000151,INC-2025-00076,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 2h SLA. Assigned to Hafiz Syahrin.,2025-08-17 15:33:45
+ACT-000152,INC-2025-00076,Hafiz Syahrin,Resolution Summary,Issue resolved within 1.3 hours. Requester confirmed functionality.,2025-08-17 16:52:54
+ACT-000153,INC-2025-00077,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 24h SLA. Assigned to Chandra Kirana.,2025-08-17 21:39:06
+ACT-000154,INC-2025-00077,Chandra Kirana,Resolution Summary,Issue resolved within 15.5 hours. Requester confirmed functionality.,2025-08-18 13:11:58
+ACT-000155,INC-2025-00078,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 24h SLA. Assigned to Fitria Ramadhani.,2025-08-18 01:26:29
+ACT-000156,INC-2025-00078,Fitria Ramadhani,Resolution Summary,Issue resolved within 14.7 hours. Requester confirmed functionality.,2025-08-18 16:05:55
+ACT-000157,INC-2025-00079,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 2h SLA. Assigned to Bayu Wicaksono.,2025-08-18 08:01:31
+ACT-000158,INC-2025-00079,Bayu Wicaksono,Resolution Summary,Issue resolved within 3.6 hours. Requester confirmed functionality.,2025-08-18 11:36:32
+ACT-000159,INC-2025-00080,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 24h SLA. Assigned to Hafiz Syahrin.,2025-08-18 11:38:47
+ACT-000160,INC-2025-00080,Hafiz Syahrin,Resolution Summary,Issue resolved within 11.4 hours. Requester confirmed functionality.,2025-08-18 23:02:55
+ACT-000161,INC-2025-00081,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 24h SLA. Assigned to Chandra Kirana.,2025-08-18 17:55:45
+ACT-000162,INC-2025-00081,Chandra Kirana,Resolution Summary,Issue resolved within 17.2 hours. Requester confirmed functionality.,2025-08-19 11:08:04
+ACT-000163,INC-2025-00082,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 72h SLA. Assigned to Fitria Ramadhani.,2025-08-18 23:10:32
+ACT-000164,INC-2025-00082,Fitria Ramadhani,Resolution Summary,Issue resolved within 48.0 hours. Requester confirmed functionality.,2025-08-20 23:08:03
+ACT-000165,INC-2025-00083,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 24h SLA. Assigned to Bayu Wicaksono.,2025-08-19 03:23:43
+ACT-000166,INC-2025-00083,Bayu Wicaksono,Resolution Summary,Issue resolved within 13.7 hours. Requester confirmed functionality.,2025-08-19 17:05:46
+ACT-000167,INC-2025-00084,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 2h SLA. Assigned to Hafiz Syahrin.,2025-08-19 08:19:55
+ACT-000168,INC-2025-00084,Hafiz Syahrin,Resolution Summary,Issue resolved within 0.8 hours. Requester confirmed functionality.,2025-08-19 09:10:34
+ACT-000169,INC-2025-00085,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 72h SLA. Assigned to Chandra Kirana.,2025-08-19 14:42:26
+ACT-000170,INC-2025-00085,Chandra Kirana,Resolution Summary,Issue resolved within 45.2 hours. Requester confirmed functionality.,2025-08-21 11:53:41
+ACT-000171,INC-2025-00086,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 24h SLA. Assigned to Fitria Ramadhani.,2025-08-19 19:26:48
+ACT-000172,INC-2025-00086,Fitria Ramadhani,Resolution Summary,Issue resolved within 11.6 hours. Requester confirmed functionality.,2025-08-20 07:02:32
+ACT-000173,INC-2025-00087,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 24h SLA. Assigned to Bayu Wicaksono.,2025-08-20 00:55:54
+ACT-000174,INC-2025-00087,Bayu Wicaksono,Resolution Summary,Issue resolved within 16.9 hours. Requester confirmed functionality.,2025-08-20 17:50:52
+ACT-000175,INC-2025-00088,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 24h SLA. Assigned to Hafiz Syahrin.,2025-08-20 06:09:06
+ACT-000176,INC-2025-00088,Hafiz Syahrin,Resolution Summary,Issue resolved within 15.4 hours. Requester confirmed functionality.,2025-08-20 21:32:52
+ACT-000177,INC-2025-00089,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 24h SLA. Assigned to Chandra Kirana.,2025-08-20 10:25:33
+ACT-000178,INC-2025-00089,Chandra Kirana,Resolution Summary,Issue resolved within 10.4 hours. Requester confirmed functionality.,2025-08-20 20:50:19
+ACT-000179,INC-2025-00090,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 2h SLA. Assigned to Fitria Ramadhani.,2025-08-20 16:28:17
+ACT-000180,INC-2025-00090,Fitria Ramadhani,Resolution Summary,Issue resolved within 1.7 hours. Requester confirmed functionality.,2025-08-20 18:10:27
+ACT-000181,INC-2025-00091,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 24h SLA. Assigned to Bayu Wicaksono.,2025-08-20 21:47:11
+ACT-000182,INC-2025-00091,Bayu Wicaksono,Resolution Summary,Issue resolved within 14.9 hours. Requester confirmed functionality.,2025-08-21 12:39:56
+ACT-000183,INC-2025-00092,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 72h SLA. Assigned to Hafiz Syahrin.,2025-08-21 02:28:19
+ACT-000184,INC-2025-00092,Hafiz Syahrin,Resolution Summary,Issue resolved within 127.4 hours. Requester confirmed functionality.,2025-08-26 09:53:41
+ACT-000185,INC-2025-00093,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 8h SLA. Assigned to Chandra Kirana.,2025-08-21 07:02:19
+ACT-000186,INC-2025-00093,Chandra Kirana,Resolution Summary,Issue resolved within 3.6 hours. Requester confirmed functionality.,2025-08-21 10:37:32
+ACT-000187,INC-2025-00094,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 2h SLA. Assigned to Fitria Ramadhani.,2025-08-21 13:27:57
+ACT-000188,INC-2025-00094,Fitria Ramadhani,Resolution Summary,Issue resolved within 0.9 hours. Requester confirmed functionality.,2025-08-21 14:20:03
+ACT-000189,INC-2025-00095,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 24h SLA. Assigned to Bayu Wicaksono.,2025-08-21 17:20:47
+ACT-000190,INC-2025-00095,Bayu Wicaksono,Resolution Summary,Issue resolved within 19.0 hours. Requester confirmed functionality.,2025-08-22 12:19:45
+ACT-000191,INC-2025-00096,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 8h SLA. Assigned to Hafiz Syahrin.,2025-08-21 23:53:36
+ACT-000192,INC-2025-00096,Hafiz Syahrin,Resolution Summary,Issue resolved within 5.6 hours. Requester confirmed functionality.,2025-08-22 05:30:31
+ACT-000193,INC-2025-00097,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 24h SLA. Assigned to Chandra Kirana.,2025-08-22 05:18:25
+ACT-000194,INC-2025-00097,Chandra Kirana,Resolution Summary,Issue resolved within 12.8 hours. Requester confirmed functionality.,2025-08-22 18:09:21
+ACT-000195,INC-2025-00098,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 24h SLA. Assigned to Fitria Ramadhani.,2025-08-22 10:30:49
+ACT-000196,INC-2025-00098,Fitria Ramadhani,Resolution Summary,Issue resolved within 21.0 hours. Requester confirmed functionality.,2025-08-23 07:31:27
+ACT-000197,INC-2025-00099,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 24h SLA. Assigned to Bayu Wicaksono.,2025-08-22 15:39:10
+ACT-000198,INC-2025-00099,Bayu Wicaksono,Resolution Summary,Issue resolved within 13.5 hours. Requester confirmed functionality.,2025-08-23 05:10:43
+ACT-000199,INC-2025-00100,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 72h SLA. Assigned to Hafiz Syahrin.,2025-08-22 20:09:28
+ACT-000200,INC-2025-00100,Hafiz Syahrin,Resolution Summary,Issue resolved within 54.8 hours. Requester confirmed functionality.,2025-08-25 02:54:29
+ACT-000201,INC-2025-00101,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 8h SLA. Assigned to Chandra Kirana.,2025-08-23 02:18:18
+ACT-000202,INC-2025-00101,Chandra Kirana,Resolution Summary,Issue resolved within 5.1 hours. Requester confirmed functionality.,2025-08-23 07:26:42
+ACT-000203,INC-2025-00102,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 8h SLA. Assigned to Fitria Ramadhani.,2025-08-23 07:29:27
+ACT-000204,INC-2025-00102,Fitria Ramadhani,Resolution Summary,Issue resolved within 4.7 hours. Requester confirmed functionality.,2025-08-23 12:11:08
+ACT-000205,INC-2025-00103,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 72h SLA. Assigned to Bayu Wicaksono.,2025-08-23 11:04:57
+ACT-000206,INC-2025-00103,Bayu Wicaksono,Resolution Summary,Issue resolved within 39.8 hours. Requester confirmed functionality.,2025-08-25 02:55:04
+ACT-000207,INC-2025-00104,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 72h SLA. Assigned to Hafiz Syahrin.,2025-08-23 17:14:48
+ACT-000208,INC-2025-00104,Hafiz Syahrin,Resolution Summary,Issue resolved within 50.6 hours. Requester confirmed functionality.,2025-08-25 19:52:59
+ACT-000209,INC-2025-00105,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 8h SLA. Assigned to Chandra Kirana.,2025-08-23 21:57:26
+ACT-000210,INC-2025-00105,Chandra Kirana,Resolution Summary,Issue resolved within 12.8 hours. Requester confirmed functionality.,2025-08-24 10:45:09
+ACT-000211,INC-2025-00106,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 24h SLA. Assigned to Fitria Ramadhani.,2025-08-24 04:04:45
+ACT-000212,INC-2025-00106,Fitria Ramadhani,Resolution Summary,Issue resolved within 10.7 hours. Requester confirmed functionality.,2025-08-24 14:43:47
+ACT-000213,INC-2025-00107,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 2h SLA. Assigned to Bayu Wicaksono.,2025-08-24 08:47:56
+ACT-000214,INC-2025-00107,Bayu Wicaksono,Resolution Summary,Issue resolved within 1.2 hours. Requester confirmed functionality.,2025-08-24 10:01:22
+ACT-000215,INC-2025-00108,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 24h SLA. Assigned to Hafiz Syahrin.,2025-08-24 13:08:02
+ACT-000216,INC-2025-00108,Hafiz Syahrin,Resolution Summary,Issue resolved within 11.2 hours. Requester confirmed functionality.,2025-08-25 00:22:53
+ACT-000217,INC-2025-00109,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 24h SLA. Assigned to Chandra Kirana.,2025-08-24 18:18:08
+ACT-000218,INC-2025-00109,Chandra Kirana,Resolution Summary,Issue resolved within 10.6 hours. Requester confirmed functionality.,2025-08-25 04:52:16
+ACT-000219,INC-2025-00110,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 2h SLA. Assigned to Fitria Ramadhani.,2025-08-25 00:56:37
+ACT-000220,INC-2025-00110,Fitria Ramadhani,Resolution Summary,Issue resolved within 1.5 hours. Requester confirmed functionality.,2025-08-25 02:25:18
+ACT-000221,INC-2025-00111,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 2h SLA. Assigned to Bayu Wicaksono.,2025-08-25 06:28:23
+ACT-000222,INC-2025-00111,Bayu Wicaksono,Resolution Summary,Issue resolved within 1.2 hours. Requester confirmed functionality.,2025-08-25 07:37:57
+ACT-000223,INC-2025-00112,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 24h SLA. Assigned to Hafiz Syahrin.,2025-08-25 11:35:40
+ACT-000224,INC-2025-00112,Hafiz Syahrin,Resolution Summary,Issue resolved within 21.0 hours. Requester confirmed functionality.,2025-08-26 08:33:11
+ACT-000225,INC-2025-00113,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 24h SLA. Assigned to Chandra Kirana.,2025-08-25 15:04:01
+ACT-000226,INC-2025-00113,Chandra Kirana,Resolution Summary,Issue resolved within 18.6 hours. Requester confirmed functionality.,2025-08-26 09:37:11
+ACT-000227,INC-2025-00114,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 24h SLA. Assigned to Fitria Ramadhani.,2025-08-25 21:54:45
+ACT-000228,INC-2025-00114,Fitria Ramadhani,Resolution Summary,Issue resolved within 10.9 hours. Requester confirmed functionality.,2025-08-26 08:47:37
+ACT-000229,INC-2025-00115,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 2h SLA. Assigned to Bayu Wicaksono.,2025-08-26 02:14:14
+ACT-000230,INC-2025-00115,Bayu Wicaksono,Resolution Summary,Issue resolved within 0.9 hours. Requester confirmed functionality.,2025-08-26 03:05:28
+ACT-000231,INC-2025-00116,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 8h SLA. Assigned to Hafiz Syahrin.,2025-08-26 07:47:54
+ACT-000232,INC-2025-00116,Hafiz Syahrin,Resolution Summary,Issue resolved within 6.1 hours. Requester confirmed functionality.,2025-08-26 13:51:47
+ACT-000233,INC-2025-00117,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 72h SLA. Assigned to Chandra Kirana.,2025-08-26 12:26:59
+ACT-000234,INC-2025-00117,Chandra Kirana,Resolution Summary,Issue resolved within 38.7 hours. Requester confirmed functionality.,2025-08-28 03:07:26
+ACT-000235,INC-2025-00118,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 8h SLA. Assigned to Fitria Ramadhani.,2025-08-26 18:49:35
+ACT-000236,INC-2025-00118,Fitria Ramadhani,Resolution Summary,Issue resolved within 9.6 hours. Requester confirmed functionality.,2025-08-27 04:23:09
+ACT-000237,INC-2025-00119,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 2h SLA. Assigned to Bayu Wicaksono.,2025-08-26 23:52:56
+ACT-000238,INC-2025-00119,Bayu Wicaksono,Resolution Summary,Issue resolved within 1.3 hours. Requester confirmed functionality.,2025-08-27 01:11:19
+ACT-000239,INC-2025-00120,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 2h SLA. Assigned to Hafiz Syahrin.,2025-08-27 04:24:27
+ACT-000240,INC-2025-00120,Hafiz Syahrin,Resolution Summary,Issue resolved within 1.7 hours. Requester confirmed functionality.,2025-08-27 06:08:17
+ACT-000241,INC-2025-00121,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 24h SLA. Assigned to Chandra Kirana.,2025-08-27 09:53:29
+ACT-000242,INC-2025-00121,Chandra Kirana,Resolution Summary,Issue resolved within 14.8 hours. Requester confirmed functionality.,2025-08-28 00:43:40
+ACT-000243,INC-2025-00122,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 24h SLA. Assigned to Fitria Ramadhani.,2025-08-27 15:30:08
+ACT-000244,INC-2025-00122,Fitria Ramadhani,Resolution Summary,Issue resolved within 10.1 hours. Requester confirmed functionality.,2025-08-28 01:37:33
+ACT-000245,INC-2025-00123,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 72h SLA. Assigned to Bayu Wicaksono.,2025-08-27 20:40:49
+ACT-000246,INC-2025-00123,Bayu Wicaksono,Resolution Summary,Issue resolved within 44.5 hours. Requester confirmed functionality.,2025-08-29 17:13:40
+ACT-000247,INC-2025-00124,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 8h SLA. Assigned to Hafiz Syahrin.,2025-08-28 00:28:34
+ACT-000248,INC-2025-00124,Hafiz Syahrin,Resolution Summary,Issue resolved within 5.0 hours. Requester confirmed functionality.,2025-08-28 05:27:24
+ACT-000249,INC-2025-00125,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 24h SLA. Assigned to Chandra Kirana.,2025-08-28 05:27:19
+ACT-000250,INC-2025-00125,Chandra Kirana,Resolution Summary,Issue resolved within 20.8 hours. Requester confirmed functionality.,2025-08-29 02:16:49
+ACT-000251,INC-2025-00126,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 24h SLA. Assigned to Fitria Ramadhani.,2025-08-28 11:34:19
+ACT-000252,INC-2025-00126,Fitria Ramadhani,Resolution Summary,Issue resolved within 13.2 hours. Requester confirmed functionality.,2025-08-29 00:44:16
+ACT-000253,INC-2025-00127,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 24h SLA. Assigned to Bayu Wicaksono.,2025-08-28 16:01:30
+ACT-000254,INC-2025-00127,Bayu Wicaksono,Resolution Summary,Issue resolved within 20.1 hours. Requester confirmed functionality.,2025-08-29 12:07:08
+ACT-000255,INC-2025-00128,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 72h SLA. Assigned to Hafiz Syahrin.,2025-08-28 22:21:05
+ACT-000256,INC-2025-00128,Hafiz Syahrin,Resolution Summary,Issue resolved within 50.0 hours. Requester confirmed functionality.,2025-08-31 00:21:03
+ACT-000257,INC-2025-00129,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 72h SLA. Assigned to Chandra Kirana.,2025-08-29 03:49:55
+ACT-000258,INC-2025-00129,Chandra Kirana,Resolution Summary,Issue resolved within 30.4 hours. Requester confirmed functionality.,2025-08-30 10:11:41
+ACT-000259,INC-2025-00130,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 24h SLA. Assigned to Fitria Ramadhani.,2025-08-29 08:55:15
+ACT-000260,INC-2025-00130,Fitria Ramadhani,Resolution Summary,Issue resolved within 21.0 hours. Requester confirmed functionality.,2025-08-30 05:53:40
+ACT-000261,INC-2025-00131,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 24h SLA. Assigned to Bayu Wicaksono.,2025-08-29 13:15:42
+ACT-000262,INC-2025-00131,Bayu Wicaksono,Resolution Summary,Issue resolved within 42.7 hours. Requester confirmed functionality.,2025-08-31 07:55:45
+ACT-000263,INC-2025-00132,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 24h SLA. Assigned to Hafiz Syahrin.,2025-08-29 18:38:14
+ACT-000264,INC-2025-00132,Hafiz Syahrin,Resolution Summary,Issue resolved within 14.4 hours. Requester confirmed functionality.,2025-08-30 09:00:57
+ACT-000265,INC-2025-00133,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 2h SLA. Assigned to Chandra Kirana.,2025-08-30 00:37:46
+ACT-000266,INC-2025-00133,Chandra Kirana,Resolution Summary,Issue resolved within 1.6 hours. Requester confirmed functionality.,2025-08-30 02:12:35
+ACT-000267,INC-2025-00134,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 72h SLA. Assigned to Fitria Ramadhani.,2025-08-30 05:12:39
+ACT-000268,INC-2025-00134,Fitria Ramadhani,Resolution Summary,Issue resolved within 55.4 hours. Requester confirmed functionality.,2025-09-01 12:35:13
+ACT-000269,INC-2025-00135,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 24h SLA. Assigned to Bayu Wicaksono.,2025-08-30 09:47:40
+ACT-000270,INC-2025-00135,Bayu Wicaksono,Resolution Summary,Issue resolved within 14.8 hours. Requester confirmed functionality.,2025-08-31 00:35:05
+ACT-000271,INC-2025-00136,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 72h SLA. Assigned to Hafiz Syahrin.,2025-08-30 15:42:44
+ACT-000272,INC-2025-00136,Hafiz Syahrin,Resolution Summary,Issue resolved within 36.7 hours. Requester confirmed functionality.,2025-09-01 04:24:51
+ACT-000273,INC-2025-00137,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 24h SLA. Assigned to Chandra Kirana.,2025-08-30 20:24:58
+ACT-000274,INC-2025-00137,Chandra Kirana,Resolution Summary,Issue resolved within 10.9 hours. Requester confirmed functionality.,2025-08-31 07:19:28
+ACT-000275,INC-2025-00138,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 24h SLA. Assigned to Fitria Ramadhani.,2025-08-31 02:26:40
+ACT-000276,INC-2025-00138,Fitria Ramadhani,Resolution Summary,Issue resolved within 15.6 hours. Requester confirmed functionality.,2025-08-31 18:02:12
+ACT-000277,INC-2025-00139,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 24h SLA. Assigned to Bayu Wicaksono.,2025-08-31 07:13:18
+ACT-000278,INC-2025-00139,Bayu Wicaksono,Resolution Summary,Issue resolved within 19.7 hours. Requester confirmed functionality.,2025-09-01 02:55:15
+ACT-000279,INC-2025-00140,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 8h SLA. Assigned to Hafiz Syahrin.,2025-08-31 11:21:27
+ACT-000280,INC-2025-00140,Hafiz Syahrin,Resolution Summary,Issue resolved within 6.1 hours. Requester confirmed functionality.,2025-08-31 17:27:26
+ACT-000281,INC-2025-00141,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 24h SLA. Assigned to Chandra Kirana.,2025-08-31 16:55:33
+ACT-000282,INC-2025-00141,Chandra Kirana,Resolution Summary,Issue resolved within 11.2 hours. Requester confirmed functionality.,2025-09-01 04:05:48
+ACT-000283,INC-2025-00142,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 24h SLA. Assigned to Fitria Ramadhani.,2025-08-31 22:52:47
+ACT-000284,INC-2025-00142,Fitria Ramadhani,Resolution Summary,Issue resolved within 14.1 hours. Requester confirmed functionality.,2025-09-01 12:59:54
+ACT-000285,INC-2025-00143,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 72h SLA. Assigned to Bayu Wicaksono.,2025-09-01 03:35:47
+ACT-000286,INC-2025-00143,Bayu Wicaksono,Resolution Summary,Issue resolved within 46.6 hours. Requester confirmed functionality.,2025-09-03 02:09:35
+ACT-000287,INC-2025-00144,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 24h SLA. Assigned to Hafiz Syahrin.,2025-09-01 09:20:39
+ACT-000288,INC-2025-00144,Hafiz Syahrin,Resolution Summary,Issue resolved within 40.8 hours. Requester confirmed functionality.,2025-09-03 02:06:28
+ACT-000289,INC-2025-00145,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 8h SLA. Assigned to Chandra Kirana.,2025-09-01 15:09:11
+ACT-000290,INC-2025-00145,Chandra Kirana,Resolution Summary,Issue resolved within 5.1 hours. Requester confirmed functionality.,2025-09-01 20:14:34
+ACT-000291,INC-2025-00146,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 24h SLA. Assigned to Fitria Ramadhani.,2025-09-01 20:27:36
+ACT-000292,INC-2025-00146,Fitria Ramadhani,Resolution Summary,Issue resolved within 15.3 hours. Requester confirmed functionality.,2025-09-02 11:44:06
+ACT-000293,INC-2025-00147,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 24h SLA. Assigned to Bayu Wicaksono.,2025-09-02 00:10:49
+ACT-000294,INC-2025-00147,Bayu Wicaksono,Resolution Summary,Issue resolved within 10.5 hours. Requester confirmed functionality.,2025-09-02 10:39:15
+ACT-000295,INC-2025-00148,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 8h SLA. Assigned to Hafiz Syahrin.,2025-09-02 05:12:13
+ACT-000296,INC-2025-00148,Hafiz Syahrin,Resolution Summary,Issue resolved within 3.7 hours. Requester confirmed functionality.,2025-09-02 08:56:12
+ACT-000297,INC-2025-00149,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 8h SLA. Assigned to Chandra Kirana.,2025-09-02 10:47:28
+ACT-000298,INC-2025-00149,Chandra Kirana,Resolution Summary,Issue resolved within 6.6 hours. Requester confirmed functionality.,2025-09-02 17:26:06
+ACT-000299,INC-2025-00150,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 24h SLA. Assigned to Fitria Ramadhani.,2025-09-02 15:38:40
+ACT-000300,INC-2025-00150,Fitria Ramadhani,Resolution Summary,Issue resolved within 11.8 hours. Requester confirmed functionality.,2025-09-03 03:27:35
+ACT-000301,INC-2025-00151,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 8h SLA. Assigned to Bayu Wicaksono.,2025-09-02 21:03:25
+ACT-000302,INC-2025-00151,Bayu Wicaksono,Resolution Summary,Issue resolved within 3.9 hours. Requester confirmed functionality.,2025-09-03 00:56:12
+ACT-000303,INC-2025-00152,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 8h SLA. Assigned to Hafiz Syahrin.,2025-09-03 02:37:17
+ACT-000304,INC-2025-00152,Hafiz Syahrin,Resolution Summary,Issue resolved within 4.0 hours. Requester confirmed functionality.,2025-09-03 06:36:49
+ACT-000305,INC-2025-00153,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 24h SLA. Assigned to Chandra Kirana.,2025-09-03 08:16:50
+ACT-000306,INC-2025-00153,Chandra Kirana,Resolution Summary,Issue resolved within 10.1 hours. Requester confirmed functionality.,2025-09-03 18:20:01
+ACT-000307,INC-2025-00154,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 24h SLA. Assigned to Fitria Ramadhani.,2025-09-03 12:15:48
+ACT-000308,INC-2025-00154,Fitria Ramadhani,Resolution Summary,Issue resolved within 19.7 hours. Requester confirmed functionality.,2025-09-04 07:55:37
+ACT-000309,INC-2025-00155,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 2h SLA. Assigned to Bayu Wicaksono.,2025-09-03 17:51:13
+ACT-000310,INC-2025-00155,Bayu Wicaksono,Resolution Summary,Issue resolved within 1.6 hours. Requester confirmed functionality.,2025-09-03 19:25:39
+ACT-000311,INC-2025-00156,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 8h SLA. Assigned to Hafiz Syahrin.,2025-09-03 22:55:07
+ACT-000312,INC-2025-00156,Hafiz Syahrin,Resolution Summary,Issue resolved within 4.6 hours. Requester confirmed functionality.,2025-09-04 03:32:28
+ACT-000313,INC-2025-00157,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 24h SLA. Assigned to Chandra Kirana.,2025-09-04 04:26:16
+ACT-000314,INC-2025-00157,Chandra Kirana,Resolution Summary,Issue resolved within 33.7 hours. Requester confirmed functionality.,2025-09-05 14:07:28
+ACT-000315,INC-2025-00158,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 2h SLA. Assigned to Fitria Ramadhani.,2025-09-04 09:24:17
+ACT-000316,INC-2025-00158,Fitria Ramadhani,Resolution Summary,Issue resolved within 1.5 hours. Requester confirmed functionality.,2025-09-04 10:53:22
+ACT-000317,INC-2025-00159,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 24h SLA. Assigned to Bayu Wicaksono.,2025-09-04 15:09:51
+ACT-000318,INC-2025-00159,Bayu Wicaksono,Resolution Summary,Issue resolved within 10.8 hours. Requester confirmed functionality.,2025-09-05 01:59:55
+ACT-000319,INC-2025-00160,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 24h SLA. Assigned to Hafiz Syahrin.,2025-09-04 19:47:05
+ACT-000320,INC-2025-00160,Hafiz Syahrin,Resolution Summary,Issue resolved within 12.7 hours. Requester confirmed functionality.,2025-09-05 08:29:11
+ACT-000321,INC-2025-00161,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 2h SLA. Assigned to Chandra Kirana.,2025-09-05 01:08:38
+ACT-000322,INC-2025-00161,Chandra Kirana,Resolution Summary,Issue resolved within 1.0 hours. Requester confirmed functionality.,2025-09-05 02:08:49
+ACT-000323,INC-2025-00162,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 8h SLA. Assigned to Fitria Ramadhani.,2025-09-05 07:28:51
+ACT-000324,INC-2025-00162,Fitria Ramadhani,Resolution Summary,Issue resolved within 5.5 hours. Requester confirmed functionality.,2025-09-05 12:57:37
+ACT-000325,INC-2025-00163,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 24h SLA. Assigned to Bayu Wicaksono.,2025-09-05 11:53:48
+ACT-000326,INC-2025-00163,Bayu Wicaksono,Resolution Summary,Issue resolved within 10.6 hours. Requester confirmed functionality.,2025-09-05 22:29:53
+ACT-000327,INC-2025-00164,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 24h SLA. Assigned to Hafiz Syahrin.,2025-09-05 17:35:27
+ACT-000328,INC-2025-00164,Hafiz Syahrin,Resolution Summary,Issue resolved within 14.6 hours. Requester confirmed functionality.,2025-09-06 08:09:48
+ACT-000329,INC-2025-00165,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 8h SLA. Assigned to Chandra Kirana.,2025-09-05 22:01:34
+ACT-000330,INC-2025-00165,Chandra Kirana,Resolution Summary,Issue resolved within 5.7 hours. Requester confirmed functionality.,2025-09-06 03:42:23
+ACT-000331,INC-2025-00166,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 24h SLA. Assigned to Fitria Ramadhani.,2025-09-06 04:28:22
+ACT-000332,INC-2025-00166,Fitria Ramadhani,Resolution Summary,Issue resolved within 16.6 hours. Requester confirmed functionality.,2025-09-06 21:03:05
+ACT-000333,INC-2025-00167,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 8h SLA. Assigned to Bayu Wicaksono.,2025-09-06 08:00:20
+ACT-000334,INC-2025-00167,Bayu Wicaksono,Resolution Summary,Issue resolved within 4.1 hours. Requester confirmed functionality.,2025-09-06 12:09:00
+ACT-000335,INC-2025-00168,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 8h SLA. Assigned to Hafiz Syahrin.,2025-09-06 13:28:12
+ACT-000336,INC-2025-00168,Hafiz Syahrin,Resolution Summary,Issue resolved within 3.9 hours. Requester confirmed functionality.,2025-09-06 17:20:09
+ACT-000337,INC-2025-00169,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 2h SLA. Assigned to Chandra Kirana.,2025-09-06 19:08:56
+ACT-000338,INC-2025-00169,Chandra Kirana,Resolution Summary,Issue resolved within 1.2 hours. Requester confirmed functionality.,2025-09-06 20:20:34
+ACT-000339,INC-2025-00170,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 8h SLA. Assigned to Fitria Ramadhani.,2025-09-07 00:05:44
+ACT-000340,INC-2025-00170,Fitria Ramadhani,Resolution Summary,Issue resolved within 14.3 hours. Requester confirmed functionality.,2025-09-07 14:20:46
+ACT-000341,INC-2025-00171,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 24h SLA. Assigned to Bayu Wicaksono.,2025-09-07 05:00:56
+ACT-000342,INC-2025-00171,Bayu Wicaksono,Resolution Summary,Issue resolved within 11.6 hours. Requester confirmed functionality.,2025-09-07 16:35:03
+ACT-000343,INC-2025-00172,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 72h SLA. Assigned to Hafiz Syahrin.,2025-09-07 10:48:48
+ACT-000344,INC-2025-00172,Hafiz Syahrin,Resolution Summary,Issue resolved within 48.6 hours. Requester confirmed functionality.,2025-09-09 11:22:06
+ACT-000345,INC-2025-00173,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 24h SLA. Assigned to Chandra Kirana.,2025-09-07 15:16:26
+ACT-000346,INC-2025-00173,Chandra Kirana,Resolution Summary,Issue resolved within 13.3 hours. Requester confirmed functionality.,2025-09-08 04:36:10
+ACT-000347,INC-2025-00174,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 24h SLA. Assigned to Fitria Ramadhani.,2025-09-07 20:35:05
+ACT-000348,INC-2025-00174,Fitria Ramadhani,Resolution Summary,Issue resolved within 10.9 hours. Requester confirmed functionality.,2025-09-08 07:30:27
+ACT-000349,INC-2025-00175,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 8h SLA. Assigned to Bayu Wicaksono.,2025-09-08 02:27:44
+ACT-000350,INC-2025-00175,Bayu Wicaksono,Resolution Summary,Issue resolved within 3.8 hours. Requester confirmed functionality.,2025-09-08 06:15:18
+ACT-000351,INC-2025-00176,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 24h SLA. Assigned to Hafiz Syahrin.,2025-09-08 06:36:13
+ACT-000352,INC-2025-00176,Hafiz Syahrin,Resolution Summary,Issue resolved within 13.5 hours. Requester confirmed functionality.,2025-09-08 20:04:52
+ACT-000353,INC-2025-00177,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 2h SLA. Assigned to Chandra Kirana.,2025-09-08 13:40:47
+ACT-000354,INC-2025-00177,Chandra Kirana,Resolution Summary,Issue resolved within 1.1 hours. Requester confirmed functionality.,2025-09-08 14:47:21
+ACT-000355,INC-2025-00178,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 8h SLA. Assigned to Fitria Ramadhani.,2025-09-08 18:15:46
+ACT-000356,INC-2025-00178,Fitria Ramadhani,Resolution Summary,Issue resolved within 6.1 hours. Requester confirmed functionality.,2025-09-09 00:22:56
+ACT-000357,INC-2025-00179,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 24h SLA. Assigned to Bayu Wicaksono.,2025-09-08 22:55:25
+ACT-000358,INC-2025-00179,Bayu Wicaksono,Resolution Summary,Issue resolved within 13.6 hours. Requester confirmed functionality.,2025-09-09 12:32:33
+ACT-000359,INC-2025-00180,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 24h SLA. Assigned to Hafiz Syahrin.,2025-09-09 05:13:48
+ACT-000360,INC-2025-00180,Hafiz Syahrin,Resolution Summary,Issue resolved within 11.0 hours. Requester confirmed functionality.,2025-09-09 16:15:43
+ACT-000361,INC-2025-00181,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 72h SLA. Assigned to Chandra Kirana.,2025-09-09 08:51:44
+ACT-000362,INC-2025-00181,Chandra Kirana,Resolution Summary,Issue resolved within 31.1 hours. Requester confirmed functionality.,2025-09-10 15:57:38
+ACT-000363,INC-2025-00182,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 24h SLA. Assigned to Fitria Ramadhani.,2025-09-09 15:23:01
+ACT-000364,INC-2025-00182,Fitria Ramadhani,Resolution Summary,Issue resolved within 11.2 hours. Requester confirmed functionality.,2025-09-10 02:35:37
+ACT-000365,INC-2025-00183,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 8h SLA. Assigned to Bayu Wicaksono.,2025-09-09 19:13:38
+ACT-000366,INC-2025-00183,Bayu Wicaksono,Resolution Summary,Issue resolved within 10.3 hours. Requester confirmed functionality.,2025-09-10 05:31:55
+ACT-000367,INC-2025-00184,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 24h SLA. Assigned to Hafiz Syahrin.,2025-09-10 01:08:46
+ACT-000368,INC-2025-00184,Hafiz Syahrin,Resolution Summary,Issue resolved within 13.7 hours. Requester confirmed functionality.,2025-09-10 14:52:47
+ACT-000369,INC-2025-00185,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 24h SLA. Assigned to Chandra Kirana.,2025-09-10 06:55:59
+ACT-000370,INC-2025-00185,Chandra Kirana,Resolution Summary,Issue resolved within 14.7 hours. Requester confirmed functionality.,2025-09-10 21:35:31
+ACT-000371,INC-2025-00186,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 24h SLA. Assigned to Fitria Ramadhani.,2025-09-10 11:06:09
+ACT-000372,INC-2025-00186,Fitria Ramadhani,Resolution Summary,Issue resolved within 18.2 hours. Requester confirmed functionality.,2025-09-11 05:18:54
+ACT-000373,INC-2025-00187,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 8h SLA. Assigned to Bayu Wicaksono.,2025-09-10 17:29:56
+ACT-000374,INC-2025-00187,Bayu Wicaksono,Resolution Summary,Issue resolved within 4.7 hours. Requester confirmed functionality.,2025-09-10 22:10:23
+ACT-000375,INC-2025-00188,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 72h SLA. Assigned to Hafiz Syahrin.,2025-09-10 22:08:54
+ACT-000376,INC-2025-00188,Hafiz Syahrin,Resolution Summary,Issue resolved within 32.8 hours. Requester confirmed functionality.,2025-09-12 06:59:18
+ACT-000377,INC-2025-00189,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 24h SLA. Assigned to Chandra Kirana.,2025-09-11 02:46:11
+ACT-000378,INC-2025-00189,Chandra Kirana,Resolution Summary,Issue resolved within 11.2 hours. Requester confirmed functionality.,2025-09-11 13:58:27
+ACT-000379,INC-2025-00190,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 24h SLA. Assigned to Fitria Ramadhani.,2025-09-11 08:22:00
+ACT-000380,INC-2025-00190,Fitria Ramadhani,Resolution Summary,Issue resolved within 19.9 hours. Requester confirmed functionality.,2025-09-12 04:15:52
+ACT-000381,INC-2025-00191,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 8h SLA. Assigned to Bayu Wicaksono.,2025-09-11 13:07:24
+ACT-000382,INC-2025-00191,Bayu Wicaksono,Resolution Summary,Issue resolved within 4.2 hours. Requester confirmed functionality.,2025-09-11 17:16:39
+ACT-000383,INC-2025-00192,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 2h SLA. Assigned to Hafiz Syahrin.,2025-09-11 18:50:23
+ACT-000384,INC-2025-00192,Hafiz Syahrin,Resolution Summary,Issue resolved within 1.5 hours. Requester confirmed functionality.,2025-09-11 20:22:18
+ACT-000385,INC-2025-00193,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 8h SLA. Assigned to Chandra Kirana.,2025-09-12 00:32:33
+ACT-000386,INC-2025-00193,Chandra Kirana,Resolution Summary,Issue resolved within 3.6 hours. Requester confirmed functionality.,2025-09-12 04:10:02
+ACT-000387,INC-2025-00194,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 8h SLA. Assigned to Fitria Ramadhani.,2025-09-12 04:53:40
+ACT-000388,INC-2025-00194,Fitria Ramadhani,Resolution Summary,Issue resolved within 6.3 hours. Requester confirmed functionality.,2025-09-12 11:09:22
+ACT-000389,INC-2025-00195,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 8h SLA. Assigned to Bayu Wicaksono.,2025-09-12 10:44:40
+ACT-000390,INC-2025-00195,Bayu Wicaksono,Resolution Summary,Issue resolved within 6.0 hours. Requester confirmed functionality.,2025-09-12 16:42:34
+ACT-000391,INC-2025-00196,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 24h SLA. Assigned to Hafiz Syahrin.,2025-09-12 15:35:07
+ACT-000392,INC-2025-00196,Hafiz Syahrin,Resolution Summary,Issue resolved within 30.0 hours. Requester confirmed functionality.,2025-09-13 21:32:32
+ACT-000393,INC-2025-00197,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 8h SLA. Assigned to Chandra Kirana.,2025-09-12 21:31:00
+ACT-000394,INC-2025-00197,Chandra Kirana,Resolution Summary,Issue resolved within 5.4 hours. Requester confirmed functionality.,2025-09-13 02:57:25
+ACT-000395,INC-2025-00198,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 24h SLA. Assigned to Fitria Ramadhani.,2025-09-13 02:47:40
+ACT-000396,INC-2025-00198,Fitria Ramadhani,Resolution Summary,Issue resolved within 11.4 hours. Requester confirmed functionality.,2025-09-13 14:09:40
+ACT-000397,INC-2025-00199,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 24h SLA. Assigned to Bayu Wicaksono.,2025-09-13 07:19:22
+ACT-000398,INC-2025-00199,Bayu Wicaksono,Resolution Summary,Issue resolved within 9.8 hours. Requester confirmed functionality.,2025-09-13 17:07:53
+ACT-000399,INC-2025-00200,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 72h SLA. Assigned to Hafiz Syahrin.,2025-09-13 12:25:48
+ACT-000400,INC-2025-00200,Hafiz Syahrin,Resolution Summary,Issue resolved within 52.9 hours. Requester confirmed functionality.,2025-09-15 17:18:23
+ACT-000401,INC-2025-00201,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 24h SLA. Assigned to Chandra Kirana.,2025-09-13 16:48:18
+ACT-000402,INC-2025-00201,Chandra Kirana,Resolution Summary,Issue resolved within 16.2 hours. Requester confirmed functionality.,2025-09-14 09:02:38
+ACT-000403,INC-2025-00202,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 24h SLA. Assigned to Fitria Ramadhani.,2025-09-13 23:10:22
+ACT-000404,INC-2025-00202,Fitria Ramadhani,Resolution Summary,Issue resolved within 20.4 hours. Requester confirmed functionality.,2025-09-14 19:32:12
+ACT-000405,INC-2025-00203,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 24h SLA. Assigned to Bayu Wicaksono.,2025-09-14 03:07:35
+ACT-000406,INC-2025-00203,Bayu Wicaksono,Resolution Summary,Issue resolved within 20.9 hours. Requester confirmed functionality.,2025-09-15 00:04:18
+ACT-000407,INC-2025-00204,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 8h SLA. Assigned to Hafiz Syahrin.,2025-09-14 09:56:30
+ACT-000408,INC-2025-00204,Hafiz Syahrin,Resolution Summary,Issue resolved within 6.5 hours. Requester confirmed functionality.,2025-09-14 16:28:55
+ACT-000409,INC-2025-00205,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 24h SLA. Assigned to Chandra Kirana.,2025-09-14 14:05:52
+ACT-000410,INC-2025-00205,Chandra Kirana,Resolution Summary,Issue resolved within 10.2 hours. Requester confirmed functionality.,2025-09-15 00:19:43
+ACT-000411,INC-2025-00206,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 24h SLA. Assigned to Fitria Ramadhani.,2025-09-14 18:30:33
+ACT-000412,INC-2025-00206,Fitria Ramadhani,Resolution Summary,Issue resolved within 13.4 hours. Requester confirmed functionality.,2025-09-15 07:57:04
+ACT-000413,INC-2025-00207,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 24h SLA. Assigned to Bayu Wicaksono.,2025-09-15 01:32:22
+ACT-000414,INC-2025-00207,Bayu Wicaksono,Resolution Summary,Issue resolved within 13.6 hours. Requester confirmed functionality.,2025-09-15 15:07:46
+ACT-000415,INC-2025-00208,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 24h SLA. Assigned to Hafiz Syahrin.,2025-09-15 05:48:15
+ACT-000416,INC-2025-00208,Hafiz Syahrin,Resolution Summary,Issue resolved within 12.2 hours. Requester confirmed functionality.,2025-09-15 17:59:30
+ACT-000417,INC-2025-00209,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 8h SLA. Assigned to Chandra Kirana.,2025-09-15 10:27:09
+ACT-000418,INC-2025-00209,Chandra Kirana,Resolution Summary,Issue resolved within 11.9 hours. Requester confirmed functionality.,2025-09-15 22:23:41
+ACT-000419,INC-2025-00210,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 72h SLA. Assigned to Fitria Ramadhani.,2025-09-15 16:01:29
+ACT-000420,INC-2025-00210,Fitria Ramadhani,Resolution Summary,Issue resolved within 48.9 hours. Requester confirmed functionality.,2025-09-17 16:53:23
+ACT-000421,INC-2025-00211,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 2h SLA. Assigned to Bayu Wicaksono.,2025-09-15 21:49:37
+ACT-000422,INC-2025-00211,Bayu Wicaksono,Resolution Summary,Issue resolved within 1.0 hours. Requester confirmed functionality.,2025-09-15 22:47:52
+ACT-000423,INC-2025-00212,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 8h SLA. Assigned to Hafiz Syahrin.,2025-09-16 02:31:45
+ACT-000424,INC-2025-00212,Hafiz Syahrin,Resolution Summary,Issue resolved within 3.5 hours. Requester confirmed functionality.,2025-09-16 06:03:25
+ACT-000425,INC-2025-00213,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 24h SLA. Assigned to Chandra Kirana.,2025-09-16 08:05:26
+ACT-000426,INC-2025-00213,Chandra Kirana,Resolution Summary,Issue resolved within 10.4 hours. Requester confirmed functionality.,2025-09-16 18:27:48
+ACT-000427,INC-2025-00214,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 8h SLA. Assigned to Fitria Ramadhani.,2025-09-16 13:53:45
+ACT-000428,INC-2025-00214,Fitria Ramadhani,Resolution Summary,Issue resolved within 4.0 hours. Requester confirmed functionality.,2025-09-16 17:53:01
+ACT-000429,INC-2025-00215,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 2h SLA. Assigned to Bayu Wicaksono.,2025-09-16 18:14:38
+ACT-000430,INC-2025-00215,Bayu Wicaksono,Resolution Summary,Issue resolved within 1.3 hours. Requester confirmed functionality.,2025-09-16 19:35:10
+ACT-000431,INC-2025-00216,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 24h SLA. Assigned to Hafiz Syahrin.,2025-09-16 23:24:23
+ACT-000432,INC-2025-00216,Hafiz Syahrin,Resolution Summary,Issue resolved within 15.6 hours. Requester confirmed functionality.,2025-09-17 15:02:51
+ACT-000433,INC-2025-00217,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 24h SLA. Assigned to Chandra Kirana.,2025-09-17 04:49:09
+ACT-000434,INC-2025-00217,Chandra Kirana,Resolution Summary,Issue resolved within 11.4 hours. Requester confirmed functionality.,2025-09-17 16:12:27
+ACT-000435,INC-2025-00218,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 72h SLA. Assigned to Fitria Ramadhani.,2025-09-17 10:47:32
+ACT-000436,INC-2025-00218,Fitria Ramadhani,Resolution Summary,Issue resolved within 41.7 hours. Requester confirmed functionality.,2025-09-19 04:29:37
+ACT-000437,INC-2025-00219,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 24h SLA. Assigned to Bayu Wicaksono.,2025-09-17 14:55:02
+ACT-000438,INC-2025-00219,Bayu Wicaksono,Resolution Summary,Issue resolved within 9.9 hours. Requester confirmed functionality.,2025-09-18 00:48:35
+ACT-000439,INC-2025-00220,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 24h SLA. Assigned to Hafiz Syahrin.,2025-09-17 20:37:04
+ACT-000440,INC-2025-00220,Hafiz Syahrin,Resolution Summary,Issue resolved within 9.9 hours. Requester confirmed functionality.,2025-09-18 06:31:47
+ACT-000441,INC-2025-00221,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 8h SLA. Assigned to Chandra Kirana.,2025-09-18 01:50:37
+ACT-000442,INC-2025-00221,Chandra Kirana,Resolution Summary,Issue resolved within 3.3 hours. Requester confirmed functionality.,2025-09-18 05:07:10
+ACT-000443,INC-2025-00222,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Software Application' with 24h SLA. Assigned to Fitria Ramadhani.,2025-09-18 06:03:25
+ACT-000444,INC-2025-00222,Fitria Ramadhani,Resolution Summary,Issue resolved within 37.1 hours. Requester confirmed functionality.,2025-09-19 19:06:38
+ACT-000445,INC-2025-00223,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Network & VPN' with 2h SLA. Assigned to Bayu Wicaksono.,2025-09-18 11:23:10
+ACT-000446,INC-2025-00223,Bayu Wicaksono,Resolution Summary,Issue resolved within 1.5 hours. Requester confirmed functionality.,2025-09-18 12:52:46
+ACT-000447,INC-2025-00224,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Security & Account Access' with 24h SLA. Assigned to Hafiz Syahrin.,2025-09-18 16:53:39
+ACT-000448,INC-2025-00224,Hafiz Syahrin,Resolution Summary,Issue resolved within 17.3 hours. Requester confirmed functionality.,2025-09-19 10:11:26
+ACT-000449,INC-2025-00225,System Auto-Triage,System Auto-Triage,Ticket triaged into domain 'Hardware Issue' with 8h SLA. Assigned to Chandra Kirana.,2025-09-18 23:05:33
+ACT-000450,INC-2025-00225,Chandra Kirana,Resolution Summary,Issue resolved within 3.2 hours. Requester confirmed functionality.,2025-09-19 02:20:33

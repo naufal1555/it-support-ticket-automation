@@ -1,0 +1,70 @@
+{
+  "$schema": "https://schema.management.azure.com/providers/Microsoft.Logic/schemas/2016-06-01/workflowdefinition.json#",
+  "contentVersion": "1.0.0.0",
+  "triggers": {
+    "When_a_ticket_is_created": {
+      "type": "OpenApiConnection",
+      "inputs": {
+        "host": {
+          "connectionName": "shared_sharepointonline",
+          "operationId": "GetOnNewItems",
+          "apiId": "/providers/Microsoft.PowerApps/apis/shared_sharepointonline"
+        },
+        "parameters": {
+          "dataset": "https://enterprise.sharepoint.com/sites/ITSMHub",
+          "table": "ITTickets"
+        }
+      }
+    }
+  },
+  "actions": {
+    "Lookup_Available_Specialist": {
+      "type": "OpenApiConnection",
+      "inputs": {
+        "host": {
+          "connectionName": "shared_sharepointonline",
+          "operationId": "GetItems",
+          "apiId": "/providers/Microsoft.PowerApps/apis/shared_sharepointonline"
+        },
+        "parameters": {
+          "dataset": "https://enterprise.sharepoint.com/sites/ITSMHub",
+          "table": "ITSpecialists",
+          "$filter": "PrimaryDomain eq '@{triggerOutputs()?['body/Category']}' and AvailabilityStatus eq 'Available'",
+          "$orderby": "ActiveTicketsCount asc",
+          "$top": 1
+        }
+      }
+    },
+    "Assign_Specialist_To_Ticket": {
+      "type": "OpenApiConnection",
+      "inputs": {
+        "host": {
+          "connectionName": "shared_sharepointonline",
+          "operationId": "PatchItem",
+          "apiId": "/providers/Microsoft.PowerApps/apis/shared_sharepointonline"
+        },
+        "parameters": {
+          "dataset": "https://enterprise.sharepoint.com/sites/ITSMHub",
+          "table": "ITTickets",
+          "id": "@triggerOutputs()?['body/ID']",
+          "item/Status": "Assigned",
+          "item/AssignedSpecialist": "@first(body('Lookup_Available_Specialist')?['value'])?['Name']"
+        }
+      }
+    },
+    "Send_Teams_Notification_To_Specialist": {
+      "type": "OpenApiConnection",
+      "inputs": {
+        "host": {
+          "connectionName": "shared_teams",
+          "operationId": "PostMessageToConversation",
+          "apiId": "/providers/Microsoft.PowerApps/apis/shared_teams"
+        },
+        "parameters": {
+          "recipient": "@first(body('Lookup_Available_Specialist')?['value'])?['Email']",
+          "messageBody": "🎯 NEW TICKET ASSIGNED: @{triggerOutputs()?['body/TicketID']} - @{triggerOutputs()?['body/Title']} [Priority: @{triggerOutputs()?['body/Priority']}]"
+        }
+      }
+    }
+  }
+}

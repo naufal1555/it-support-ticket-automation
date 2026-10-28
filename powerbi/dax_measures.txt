@@ -1,0 +1,53 @@
+// ==============================================================================
+// ENTERPRISE POWER BI DAX MEASURES SPECIFICATION
+// Project: IT Support Ticket Lifecycle Automation & ITSM Analytics
+// Candidate: Ahmad Fathin Naufal (UGM) - System Developer
+// ==============================================================================
+
+// 1. Total Incidents / Requests Logged
+Total Tickets = COUNTROWS('ITTickets')
+
+// 2. Resolved Tickets
+Resolved Tickets = 
+CALCULATE(
+    COUNTROWS('ITTickets'),
+    'ITTickets'[Status] = "Resolved"
+)
+
+// 3. SLA Breached Count
+SLA Breaches = 
+CALCULATE(
+    COUNTROWS('ITTickets'),
+    'ITTickets'[SLABreached] = TRUE()
+)
+
+// 4. SLA Adherence Rate (%)
+SLA Adherence % = 
+(1 - DIVIDE([SLA Breaches], [Total Tickets], 0)) * 100
+
+// 5. Mean Time to Resolution (MTTR in Hours)
+MTTR Hours = 
+AVERAGE('ITTickets'[ResolutionTimeHours])
+
+// 6. Average Customer Satisfaction (CSAT) Rating
+Average CSAT = 
+AVERAGE('ITTickets'[CSATScore])
+
+// 7. Critical P1 Incidents Volume
+Critical P1 Count = 
+CALCULATE(
+    COUNTROWS('ITTickets'),
+    'ITTickets'[Priority] = "P1 - Critical (2h SLA)"
+)
+
+// 8. P1 SLA Compliance (%)
+P1 SLA Adherence % = 
+VAR P1Total = [Critical P1 Count]
+VAR P1Breached = 
+    CALCULATE(
+        COUNTROWS('ITTickets'),
+        'ITTickets'[Priority] = "P1 - Critical (2h SLA)",
+        'ITTickets'[SLABreached] = TRUE()
+    )
+RETURN
+    IF(P1Total = 0, 100, (1 - DIVIDE(P1Breached, P1Total, 0)) * 100)

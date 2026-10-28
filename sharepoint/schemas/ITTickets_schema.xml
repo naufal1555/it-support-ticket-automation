@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<List xmlns:ows="http://www.opengis.net/ows" Title="ITTickets" Url="Lists/ITTickets" BaseType="0">
+  <MetaData>
+    <Fields>
+      <Field ID="{f3e79041-8041-47c3-bb66-000000000001}" Type="Text" Name="TicketID" DisplayName="Ticket ID" Required="TRUE" Indexed="TRUE" MaxLength="32" />
+      <Field ID="{f3e79041-8041-47c3-bb66-000000000002}" Type="Text" Name="Title" DisplayName="Subject" Required="TRUE" MaxLength="255" />
+      <Field ID="{f3e79041-8041-47c3-bb66-000000000003}" Type="Choice" Name="Category" DisplayName="ITSM Domain" Required="TRUE">
+        <CHOICES>
+          <CHOICE>Hardware Issue</CHOICE>
+          <CHOICE>Software Application</CHOICE>
+          <CHOICE>Network &amp; VPN</CHOICE>
+          <CHOICE>Security &amp; Account Access</CHOICE>
+        </CHOICES>
+      </Field>
+      <Field ID="{f3e79041-8041-47c3-bb66-000000000004}" Type="Choice" Name="Priority" DisplayName="Priority Level" Required="TRUE">
+        <CHOICES>
+          <CHOICE>P1 - Critical (2h SLA)</CHOICE>
+          <CHOICE>P2 - High (8h SLA)</CHOICE>
+          <CHOICE>P3 - Medium (24h SLA)</CHOICE>
+          <CHOICE>P4 - Low (72h SLA)</CHOICE>
+        </CHOICES>
+      </Field>
+      <Field ID="{f3e79041-8041-47c3-bb66-000000000005}" Type="Text" Name="RequesterName" DisplayName="Requester Name" Required="TRUE" />
+      <Field ID="{f3e79041-8041-47c3-bb66-000000000006}" Type="Text" Name="RequesterEmail" DisplayName="Requester Email" Required="TRUE" />
+      <Field ID="{f3e79041-8041-47c3-bb66-000000000007}" Type="Choice" Name="Department" DisplayName="Department" Required="TRUE">
+        <CHOICES>
+          <CHOICE>Engineering</CHOICE>
+          <CHOICE>Operations</CHOICE>
+          <CHOICE>Sales &amp; Marketing</CHOICE>
+          <CHOICE>Human Resources</CHOICE>
+          <CHOICE>Finance &amp; Accounting</CHOICE>
+        </CHOICES>
+      </Field>
+      <Field ID="{f3e79041-8041-47c3-bb66-000000000008}" Type="Text" Name="AssignedSpecialist" DisplayName="Assigned IT Specialist" />
+      <Field ID="{f3e79041-8041-47c3-bb66-000000000009}" Type="Choice" Name="Status" DisplayName="Status" Required="TRUE">
+        <CHOICES>
+          <CHOICE>New</CHOICE>
+          <CHOICE>Assigned</CHOICE>
+          <CHOICE>In Progress</CHOICE>
+          <CHOICE>Resolved</CHOICE>
+          <CHOICE>Closed</CHOICE>
+        </CHOICES>
+      </Field>
+      <Field ID="{f3e79041-8041-47c3-bb66-000000000010}" Type="DateTime" Name="CreatedDate" DisplayName="Created Date" Format="DateTime" Required="TRUE" />
+      <Field ID="{f3e79041-8041-47c3-bb66-000000000011}" Type="DateTime" Name="DueDate" DisplayName="SLA Target Due Date" Format="DateTime" Required="TRUE" />
+      <Field ID="{f3e79041-8041-47c3-bb66-000000000012}" Type="DateTime" Name="ResolvedDate" DisplayName="Resolved Date" Format="DateTime" />
+      <Field ID="{f3e79041-8041-47c3-bb66-000000000013}" Type="Number" Name="ResolutionTimeHours" DisplayName="Resolution Time (Hours)" Decimals="2" />
+      <Field ID="{f3e79041-8041-47c3-bb66-000000000014}" Type="Boolean" Name="SLABreached" DisplayName="SLA Breached" />
+      <Field ID="{f3e79041-8041-47c3-bb66-000000000015}" Type="Number" Name="CSATScore" DisplayName="Customer Satisfaction (1-5)" Decimals="0" />
+    </Fields>
+  </MetaData>
+</List>

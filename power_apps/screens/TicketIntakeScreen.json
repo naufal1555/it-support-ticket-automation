@@ -1,0 +1,80 @@
+{
+  "$schema": "https://powerapps.microsoft.com/schemas/v1/ScreenDefinition.json",
+  "name": "TicketIntakeScreen",
+  "type": "Screen",
+  "properties": {
+    "Fill": "RGBA(15, 23, 42, 1)",
+    "LoadingSpinnerColor": "RGBA(0, 173, 181, 1)"
+  },
+  "controls": [
+    {
+      "name": "lblHeader",
+      "type": "Label",
+      "properties": {
+        "Text": "\"Submit New IT Support Ticket\"",
+        "Font": "Font.'Segoe UI'",
+        "Size": 20,
+        "Color": "RGBA(255, 255, 255, 1)",
+        "X": 40,
+        "Y": 30
+      }
+    },
+    {
+      "name": "cmbCategory",
+      "type": "ComboBox",
+      "properties": {
+        "Items": "[\"Hardware Issue\", \"Software Application\", \"Network & VPN\", \"Security & Account Access\"]",
+        "X": 40,
+        "Y": 90,
+        "Width": 450,
+        "DefaultSelectedItems": "[\"Hardware Issue\"]"
+      }
+    },
+    {
+      "name": "cmbPriority",
+      "type": "ComboBox",
+      "properties": {
+        "Items": "[\"P1 - Critical (2h SLA)\", \"P2 - High (8h SLA)\", \"P3 - Medium (24h SLA)\", \"P4 - Low (72h SLA)\"]",
+        "X": 40,
+        "Y": 160,
+        "Width": 450
+      }
+    },
+    {
+      "name": "txtSubject",
+      "type": "TextInput",
+      "properties": {
+        "HintText": "\"Brief summary of technical issue...\"",
+        "X": 40,
+        "Y": 230,
+        "Width": 650
+      }
+    },
+    {
+      "name": "txtDescription",
+      "type": "TextInput",
+      "properties": {
+        "Mode": "TextMode.MultiLine",
+        "HintText": "\"Detailed reproduction steps or error code...\"",
+        "X": 40,
+        "Y": 300,
+        "Width": 650,
+        "Height": 140
+      }
+    },
+    {
+      "name": "btnSubmit",
+      "type": "Button",
+      "properties": {
+        "Text": "\"Dispatch Ticket to IT Support\"",
+        "Fill": "RGBA(0, 173, 181, 1)",
+        "Color": "RGBA(255, 255, 255, 1)",
+        "OnSelect": "Patch(ITTickets, Defaults(ITTickets), { Title: txtSubject.Text, Category: cmbCategory.Selected.Value, Priority: cmbPriority.Selected.Value, Status: \"New\", CreatedDate: Now() }); Navigate(HomeScreen, ScreenTransition.Fade)",
+        "X": 40,
+        "Y": 460,
+        "Width": 260,
+        "Height": 45
+      }
+    }
+  ]
+}

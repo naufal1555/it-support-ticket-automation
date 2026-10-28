@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<List xmlns:ows="http://www.opengis.net/ows" Title="TicketActivityLog" Url="Lists/TicketActivityLog" BaseType="0">
+  <MetaData>
+    <Fields>
+      <Field ID="{f3e79041-8041-47c3-bb66-000000000021}" Type="Text" Name="ActivityID" DisplayName="Activity ID" Required="TRUE" Indexed="TRUE" />
+      <Field ID="{f3e79041-8041-47c3-bb66-000000000022}" Type="Text" Name="TicketID" DisplayName="Ticket ID" Required="TRUE" Indexed="TRUE" />
+      <Field ID="{f3e79041-8041-47c3-bb66-000000000023}" Type="Text" Name="Author" DisplayName="Author" Required="TRUE" />
+      <Field ID="{f3e79041-8041-47c3-bb66-000000000024}" Type="Choice" Name="NoteType" DisplayName="Note Type" Required="TRUE">
+        <CHOICES>
+          <CHOICE>System Auto-Triage</CHOICE>
+          <CHOICE>Engineer Worknote</CHOICE>
+          <CHOICE>Customer Response</CHOICE>
+          <CHOICE>Resolution Summary</CHOICE>
+        </CHOICES>
+      </Field>
+      <Field ID="{f3e79041-8041-47c3-bb66-000000000025}" Type="Note" Name="Notes" DisplayName="Activity Content" NumLines="4" Required="TRUE" />
+      <Field ID="{f3e79041-8041-47c3-bb66-000000000026}" Type="DateTime" Name="Timestamp" DisplayName="Timestamp" Format="DateTime" Required="TRUE" />
+    </Fields>
+  </MetaData>
+</List>
