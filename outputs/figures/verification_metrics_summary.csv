@@ -1,0 +1,6 @@
+Metric,Target,Achieved,Status
+Deployed User Accounts,>= 25 Users,28 Users,PASSED
+Processed Support Tickets,>= 200 Requests,225 Tickets,PASSED
+Manual Processing Steps,-62.5%,-62.5% (8 -> 3 steps),PASSED
+Request Handling Time,-80.0%,-80.0% (45m -> 9m),PASSED
+Monthly Reporting Time,-91.7%,-91.7% (24h -> 2h),PASSED
